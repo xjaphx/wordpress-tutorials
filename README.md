@@ -22,6 +22,7 @@ All resources for learning WordPress development.
 1. http://www.grafpedia.com/tutorials/create-food-blog-layout-photoshop
 1. http://webdesign.tutsplus.com/tutorials/complete-websites/design-a-professional-clean-community-blog-theme-in-adobe-photoshop/
 1. http://devisefunction.com/2010/03/04/clean-textured-wordpress-style-layout-in-photoshop/
+1. http://wegraphics.net/blog/tutorials/photoshop/design-a-clean-sports-magazine-style-web-layout-with-photoshop/
 
 ## Theme Development
 1. http://webdesign.tutsplus.com/series/adaptive-blog-theme-from-photoshop-to-wordpress--webdesign-9242
