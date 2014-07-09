@@ -14,7 +14,10 @@ All resources for learning WordPress development.
 1. http://wp.smashingmagazine.com/2012/12/11/inserting-widgets-with-shortcodes/
 1. http://wp.smashingmagazine.com/2013/01/14/using-wp_query-wordpress/
 
-## Themes
+## Theme Design
+1. http://trendytuts.com/web-layout-tutorials/how-to-create-a-wordpress-theme-in-photoshop.html
+
+## Theme Development
 1. http://webdesign.tutsplus.com/series/adaptive-blog-theme-from-photoshop-to-wordpress--webdesign-9242
 1. http://www.creativebloq.com/wordpress/futureproof-wordpress-10134773
 1. http://www.onextrapixel.com/2011/03/08/how-to-code-a-wordpress-3-0-theme-from-scratch/
