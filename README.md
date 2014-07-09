@@ -1,4 +1,4 @@
-WordPress Learnings
+WordPress Development
 ===================
 All resources for learning WordPress development.
 
