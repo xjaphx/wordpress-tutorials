@@ -19,6 +19,7 @@ All resources for learning WordPress development.
 1. http://www.creativebloq.com/create-your-own-wordpress-toolkit-9134435
 1. http://code.tutsplus.com/tutorials/building-custom-wordpress-widgets--wp-25241
 1. http://www.smashingmagazine.com/2012/01/19/facebook-twitter-google-wordpress/
+1. http://www.wpbeginner.com/wp-tutorials/how-to-add-share-buttons-as-overlay-youtube-videos-in-wordpress/
 
 ## Miscellaneous
 1. http://premium.wpmudev.org/blog/choose-color-scheme-your-website/
