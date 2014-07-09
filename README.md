@@ -21,6 +21,7 @@ All resources for learning WordPress development.
 1. http://www.smashingmagazine.com/2012/01/19/facebook-twitter-google-wordpress/
 1. http://www.wpbeginner.com/wp-tutorials/how-to-add-share-buttons-as-overlay-youtube-videos-in-wordpress/
 1. http://www.wpbeginner.com/wp-tutorials/how-to-add-pinterest-pin-it-button-in-your-wordpress-blog/
+1. http://www.wpbeginner.com/wp-tutorials/how-to-add-twitter-cards-in-wordpress/
 
 ## Miscellaneous
 1. http://premium.wpmudev.org/blog/choose-color-scheme-your-website/
