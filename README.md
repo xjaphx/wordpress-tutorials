@@ -19,6 +19,7 @@ All resources for learning WordPress development.
 1. http://www.creativebloq.com/netmag/4-brilliant-wordpress-techniques-you-need-know-11410442
 1. http://premium.wpmudev.org/blog/tutorial-how-to-add-authors-images-to-your-wordpress-blog/
 1. http://www.wpbeginner.com/wp-tutorials/how-to-create-a-photo-album-gallery-in-wordpress-without-a-plugin/
+1. http://www.smashingmagazine.com/2011/05/26/better-image-management-practices-with-wordpress/
 
 
 
