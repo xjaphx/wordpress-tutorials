@@ -39,6 +39,7 @@ All resources for learning WordPress development.
 1. http://wpshout.com/create-an-advanced-options-page-in-wordpress/
 1. http://wp.tutsplus.com/tutorials/theme-development/create-a-settings-page-for-your-wordpress-theme/
 1. http://lifehacker.com/5890139/how-to-create-a-custom-theme-for-your-wordpress-blog-with-minimal-coding-required
+1. http://line25.com/tutorials/how-to-create-your-own-custom-wordpress-theme
 
 ## Plugins / Widgets
 1. http://www.creativebloq.com/create-your-own-wordpress-toolkit-9134435
