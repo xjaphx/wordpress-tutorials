@@ -27,6 +27,7 @@ All resources for learning WordPress development.
 1. http://www.presscoders.com/wordpress-theme-customization-guide/
 1. http://blog.spoongraphics.co.uk/tutorials/how-to-build-a-custom-wordpress-theme-from-scratch
 1. http://line25.com/tutorials/how-to-create-a-simple-wordpress-blog-theme
+1. http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
 
 ## Plugins / Widgets
 1. http://www.creativebloq.com/create-your-own-wordpress-toolkit-9134435
