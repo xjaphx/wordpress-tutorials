@@ -5,6 +5,7 @@ All resources for learning WordPress development.
 ## General
 1. http://www.smashingmagazine.com/2012/11/08/complete-guide-custom-post-types/
 1. http://www.creativebloq.com/wordpress/create-wordpress-custom-post-type-7112909
+1. http://www.smashingmagazine.com/learning-wordpress-useful-wordpress-tips-tutorials/#a1
 
 ## Themes
 1. http://www.creativebloq.com/wordpress/futureproof-wordpress-10134773
