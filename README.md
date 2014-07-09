@@ -35,6 +35,7 @@ All resources for learning WordPress development.
 1. http://wpshout.com/wordpress-theme-design-basics/
 1. http://www.developerdrive.com/2011/10/how-to-build-a-wordpress-theme-from-scratch-part-one/
 1. http://www.1stwebdesigner.com/tutorials/how-to-create-your-first-wordpress-theme-part-1/
+1. http://wpshout.com/create-an-advanced-options-page-in-wordpress/
 
 ## Plugins / Widgets
 1. http://www.creativebloq.com/create-your-own-wordpress-toolkit-9134435
