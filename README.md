@@ -3,12 +3,14 @@ WordPress Learnings
 All resources for learning WordPress development.
 
 ## General
+1. http://www.smashingmagazine.com/2012/11/08/complete-guide-custom-post-types/
 
 ## Themes
 
 ## Plugins / Widgets
 1. http://www.creativebloq.com/create-your-own-wordpress-toolkit-9134435
 1. http://code.tutsplus.com/tutorials/building-custom-wordpress-widgets--wp-25241
+
 
 ## Miscellaneous
 1. http://premium.wpmudev.org/blog/choose-color-scheme-your-website/
