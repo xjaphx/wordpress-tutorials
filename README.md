@@ -25,6 +25,7 @@ All resources for learning WordPress development.
 1. http://code.tutsplus.com/articles/5-quick-beginner-friendly-css-customizations-that-make-your-blog-stand-out--wp-34794
 1. http://code.tutsplus.com/tutorials/how-to-integrate-bootstrap-navbar-into-wordpress-theme--wp-33410
 1. http://www.presscoders.com/wordpress-theme-customization-guide/
+1. http://blog.spoongraphics.co.uk/tutorials/how-to-build-a-custom-wordpress-theme-from-scratch
 
 ## Plugins / Widgets
 1. http://www.creativebloq.com/create-your-own-wordpress-toolkit-9134435
