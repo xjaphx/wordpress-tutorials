@@ -10,6 +10,7 @@ All resources for learning WordPress development.
 1. http://www.netmagazine.com/tutorials/user-friendly-custom-fields-meta-boxes-wordpress
 1. http://code.tutsplus.com/articles/the-complete-guide-to-proper-javascript-usage-with-wordpress--wp-32172
 1. http://wp.smashingmagazine.com/2012/12/11/inserting-widgets-with-shortcodes/
+1. http://wp.smashingmagazine.com/2013/01/14/using-wp_query-wordpress/
 
 ## Themes
 1. http://www.creativebloq.com/wordpress/futureproof-wordpress-10134773
