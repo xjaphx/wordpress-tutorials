@@ -11,6 +11,7 @@ All resources for learning WordPress development.
 1. http://www.onextrapixel.com/2011/03/08/how-to-code-a-wordpress-3-0-theme-from-scratch/
 1. http://line25.com/tutorials/how-to-build-a-basic-portfolio-wordpress-theme
 1. http://themeshaper.com/2009/06/22/wordpress-themes-templates-tutorial/
+1. http://css-tricks.com/designing-for-wordpress-complete-series-downloads/
 
 ## Plugins / Widgets
 1. http://www.creativebloq.com/create-your-own-wordpress-toolkit-9134435
