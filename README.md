@@ -30,6 +30,7 @@ All resources for learning WordPress development.
 1. http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
 1. http://webdesign.tutsplus.com/sessions/adaptive-blog-theme-from-photoshop-to-wordpress/
 1. http://wp.tutsplus.com/tutorials/wordpress-theme-development-training-wheels-day-one/
+1. http://wplift.com/the-ultimate-wordpress-theme-development-glossary
 
 ## Plugins / Widgets
 1. http://www.creativebloq.com/create-your-own-wordpress-toolkit-9134435
