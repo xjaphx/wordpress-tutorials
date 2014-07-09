@@ -32,5 +32,5 @@ All resources for learning WordPress development.
 1. http://www.wpbeginner.com/wp-tutorials/how-to-create-a-photo-album-gallery-in-wordpress-without-a-plugin/
 1. http://www.smashingmagazine.com/2011/05/26/better-image-management-practices-with-wordpress/
 1. http://www.wpbeginner.com/wp-tutorials/how-to-create-a-daily-and-weekly-email-newsletter-in-wordpress/
-
+1. http://premium.wpmudev.org/blog/wordpress-custom-menu-icons/
 
