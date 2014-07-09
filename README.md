@@ -9,6 +9,7 @@ All resources for learning WordPress development.
 ## Themes
 1. http://www.creativebloq.com/wordpress/futureproof-wordpress-10134773
 1. http://www.onextrapixel.com/2011/03/08/how-to-code-a-wordpress-3-0-theme-from-scratch/
+1. http://line25.com/tutorials/how-to-build-a-basic-portfolio-wordpress-theme
 
 ## Plugins / Widgets
 1. http://www.creativebloq.com/create-your-own-wordpress-toolkit-9134435
