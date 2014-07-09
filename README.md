@@ -29,6 +29,7 @@ All resources for learning WordPress development.
 1. http://designm.ag/tutorials/blue-blog-theme-layout/
 1. http://weebtutorials.com/2011/08/full-website-creation-from-design-to-htmlcss/
 1. http://45pixels.com/simplistic-blog-theme-tutorial/
+1. http://wplift.com/minimal-wordpress-theme-photoshop-tutorial
 
 ## Theme Development
 1. http://webdesign.tutsplus.com/series/adaptive-blog-theme-from-photoshop-to-wordpress--webdesign-9242
