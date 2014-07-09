@@ -10,6 +10,7 @@ All resources for learning WordPress development.
 
 ## Miscellaneous
 
+1. http://premium.wpmudev.org/blog/choose-color-scheme-your-website/
 
 
 
