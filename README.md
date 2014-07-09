@@ -18,6 +18,7 @@ All resources for learning WordPress development.
 1. http://code.tutsplus.com/tutorials/making-use-of-the-genericons-font-in-your-website--wp-34298
 1. http://www.creativebloq.com/netmag/4-brilliant-wordpress-techniques-you-need-know-11410442
 1. http://premium.wpmudev.org/blog/tutorial-how-to-add-authors-images-to-your-wordpress-blog/
+1. http://www.wpbeginner.com/wp-tutorials/how-to-create-a-photo-album-gallery-in-wordpress-without-a-plugin/
 
 
 
