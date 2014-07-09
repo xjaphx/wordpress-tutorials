@@ -15,6 +15,7 @@ All resources for learning WordPress development.
 1. http://line25.com/tutorials/create-a-typography-based-wordpress-blog-theme
 1. http://www.smashingmagazine.com/2013/02/21/wp-theme-development-process/
 1. http://www.wphub.com/tutorials/creating-responsive-navigation-menu-wordpress/
+1. http://code.tutsplus.com/articles/5-quick-beginner-friendly-css-customizations-that-make-your-blog-stand-out--wp-34794
 
 ## Plugins / Widgets
 1. http://www.creativebloq.com/create-your-own-wordpress-toolkit-9134435
