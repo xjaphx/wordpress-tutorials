@@ -18,6 +18,7 @@ All resources for learning WordPress development.
 1. http://trendytuts.com/web-layout-tutorials/how-to-create-a-wordpress-theme-in-photoshop.html
 1. http://www.1stwebdesigner.com/tutorials/myriad-pro-minimal-wordpress-theme/
 1. http://webexpedition18.com/articles/caffe-break-themed-blog-layout-photoshop-tutorial/
+1. http://webdesign.tutsplus.com/tutorials/basics-create-a-clean-magazine-blog-theme-day-1-design/
 
 ## Theme Development
 1. http://webdesign.tutsplus.com/series/adaptive-blog-theme-from-photoshop-to-wordpress--webdesign-9242
