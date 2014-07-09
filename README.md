@@ -25,6 +25,7 @@ All resources for learning WordPress development.
 1. http://wegraphics.net/blog/tutorials/photoshop/design-a-clean-sports-magazine-style-web-layout-with-photoshop/
 1. http://devisefunction.com/2010/02/04/clean-and-creative-wordpress-style-theme-in-photoshop/
 1. http://aext.net/2009/12/wordpress-theme-from-scratch-day-1-psd/
+1. http://psd.tutsplus.com/tutorials/interface-tutorials/how-to-create-a-grunge-web-design-in-photoshop/
 
 ## Theme Development
 1. http://webdesign.tutsplus.com/series/adaptive-blog-theme-from-photoshop-to-wordpress--webdesign-9242
