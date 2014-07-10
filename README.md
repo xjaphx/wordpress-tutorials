@@ -90,3 +90,4 @@ All resources for learning WordPress development.
 1. [Carrington Core](http://crowdfavorite.com/carrington-core/)
 1. [Elastic Theme](http://elastictheme.org/)
 1. [Gantry Framework](http://www.gantry-framework.org/)
+1. [Blank Theme by Chris Coyier](http://digwp.com/2010/02/blank-wordpress-theme/)
