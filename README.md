@@ -110,3 +110,4 @@ All resources for learning WordPress development.
 1. http://wordpress.org/extend/plugins/debug-queries/
 1. http://wordpress.org/extend/plugins/log-deprecated-notices/
 1. http://wordpress.org/extend/plugins/debug-bar/
+1. http://wordpress.org/extend/plugins/theme-check/
