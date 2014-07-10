@@ -81,6 +81,8 @@ All resources for learning WordPress development.
 1. http://www.creativebloq.com/wordpress/protect-your-wordpress-site-htaccess-4122793
 
 ## Theme Frameworks / Engines
+(only free and open-sources are listed here)
+
 1. [Hybrid Core](http://themehybrid.com/hybrid-core)
 1. [Thematic](http://themeshaper.com/thematic/)
 1. [Presswork](http://presswork.me/)
