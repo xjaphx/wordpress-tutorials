@@ -108,3 +108,4 @@ All resources for learning WordPress development.
 ## Testing
 1. http://codex.wordpress.org/Theme_Unit_Test
 1. http://wordpress.org/extend/plugins/debug-queries/
+1. http://wordpress.org/extend/plugins/log-deprecated-notices/
