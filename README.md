@@ -13,6 +13,7 @@ All resources for learning WordPress development.
 1. http://code.tutsplus.com/articles/the-complete-guide-to-proper-javascript-usage-with-wordpress--wp-32172
 1. http://wp.smashingmagazine.com/2012/12/11/inserting-widgets-with-shortcodes/
 1. http://wp.smashingmagazine.com/2013/01/14/using-wp_query-wordpress/
+1. http://www.tutorialchip.com/wordpress/wordpress-shortcode-tutorial-simple-to-advanced-part-1/
 
 ## Theme Design
 1. http://trendytuts.com/web-layout-tutorials/how-to-create-a-wordpress-theme-in-photoshop.html
