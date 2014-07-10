@@ -88,3 +88,4 @@ All resources for learning WordPress development.
 1. [Whiteboard](http://whiteboardframework.com/)
 1. [Root](http://roots.io/)
 1. [Carrington Core](http://crowdfavorite.com/carrington-core/)
+1. [Elastic Theme](http://elastictheme.org/)
