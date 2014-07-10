@@ -87,3 +87,4 @@ All resources for learning WordPress development.
 1. [Toolbox - HTML5 WordPress Starter Theme](http://themeshaper.com/2010/07/02/toolbox-html5-starter-theme/)
 1. [Whiteboard](http://whiteboardframework.com/)
 1. [Root](http://roots.io/)
+1. [Carrington Core](http://crowdfavorite.com/carrington-core/)
