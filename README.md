@@ -97,3 +97,4 @@ All resources for learning WordPress development.
 1. [OneEngine](http://www.enginethemes.com/themes/oneengine/)
 1. [UpTheme Framework, the theme options framework](http://upthemes.com/upthemes-framework/)
 1. [Options Framework](http://wptheming.com/options-framework-theme/)
+1. [How to Create a Better WordPress Option Panel](http://net.tutsplus.com/tutorials/wordpress/how-to-create-a-better-wordpress-options-panel/)
