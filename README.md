@@ -16,6 +16,7 @@ All resources for learning WordPress development.
 1. http://www.tutorialchip.com/wordpress/wordpress-shortcode-tutorial-simple-to-advanced-part-1/
 1. http://wp.tutsplus.com/tutorials/getting-started-with-wordpress-shortcodes/
 1. http://www.tutorialchip.com/wordpress/wordpress-shortcode-tinymce-button-tutorial-part-2/
+1. http://www.wpexplorer.com/blog/wordpress-toggle-shortcode.html
 
 ## Theme Design
 1. http://trendytuts.com/web-layout-tutorials/how-to-create-a-wordpress-theme-in-photoshop.html
