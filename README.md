@@ -96,3 +96,4 @@ All resources for learning WordPress development.
 1. [Infinity](http://infinity.presscrew.com/)
 1. [OneEngine](http://www.enginethemes.com/themes/oneengine/)
 1. [UpTheme Framework, the theme options framework](http://upthemes.com/upthemes-framework/)
+1. [Options Framework](http://wptheming.com/options-framework-theme/)
