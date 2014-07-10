@@ -80,3 +80,5 @@ All resources for learning WordPress development.
 1. http://premium.wpmudev.org/blog/wordpress-custom-menu-icons/
 1. http://www.creativebloq.com/wordpress/protect-your-wordpress-site-htaccess-4122793
 
+## Theme Frameworks / Engines
+1. [Hybrid Core](http://themehybrid.com/hybrid-core)
