@@ -95,3 +95,4 @@ All resources for learning WordPress development.
 1. [Blank Theme by Chris Coyier](http://digwp.com/2010/02/blank-wordpress-theme/)
 1. [Infinity](http://infinity.presscrew.com/)
 1. [OneEngine](http://www.enginethemes.com/themes/oneengine/)
+1. [UpTheme Framework, the theme options framework](http://upthemes.com/upthemes-framework/)
