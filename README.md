@@ -106,6 +106,9 @@ All resources for learning WordPress development.
 1. [WordPress Theme Option Panel Framework](http://diverge.blogdns.com/blog/wordpress-theme-options-panel-framework/)
 1. [Underscores, A Starter Theme](http://underscores.me/)
 
+## Tips / Hacks / Cheat Sheets
+1. [WordPress Cheat Sheets Theme Anatomy Model](http://code.tutsplus.com/articles/wordpress-cheat-sheets-theme-anatomy-model--wp-22579)
+
 ## Testing
 1. http://codex.wordpress.org/Theme_Unit_Test
 1. http://wordpress.org/extend/plugins/debug-queries/
