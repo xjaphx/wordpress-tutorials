@@ -104,6 +104,7 @@ All resources for learning WordPress development.
 1. [How to Create a Better WordPress Option Panel](http://net.tutsplus.com/tutorials/wordpress/how-to-create-a-better-wordpress-options-panel/)
 1. [Create a WordPress Theme Option Panel](http://www.mojo-themes.com/2010/09/create-a-wordpress-option-panel/)
 1. [WordPress Theme Option Panel Framework](http://diverge.blogdns.com/blog/wordpress-theme-options-panel-framework/)
+1. [Underscores, A Starter Theme](http://underscores.me/)
 
 ## Testing
 1. http://codex.wordpress.org/Theme_Unit_Test
