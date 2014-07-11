@@ -107,7 +107,8 @@ All resources for learning WordPress development.
 1. [Underscores, A Starter Theme](http://underscores.me/)
 
 ## Tips / Hacks / Cheat Sheets
-1. [WordPress Cheat Sheets Theme Anatomy Model](http://code.tutsplus.com/articles/wordpress-cheat-sheets-theme-anatomy-model--wp-22579)
+1. [WordPress Cheat Sheets: Theme Anatomy Model](http://code.tutsplus.com/articles/wordpress-cheat-sheets-theme-anatomy-model--wp-22579)
+1. [WordPress Cheat Sheets: Template Hierarchy Map](http://code.tutsplus.com/articles/wordpress-cheat-sheets-template-heirarchy-map--wp-22621)
 
 ## Testing
 1. http://codex.wordpress.org/Theme_Unit_Test
